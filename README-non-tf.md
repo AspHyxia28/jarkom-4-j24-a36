@@ -746,25 +746,6 @@ Configuration to every router for routing.
 
 ### Subnetting (If you use CPT)
 
-  `Server (Noukan, MentalOut, Mathers, Othinus, Elizard)`
-  ![image](https://github.com/user-attachments/assets/e54dbbe5-fc4a-4bee-b851-13bc00acb732)
-  ![image](https://github.com/user-attachments/assets/b0017fa0-34da-4362-bd4c-cd6bb4401454)
-  ![image](https://github.com/user-attachments/assets/69d78788-623e-4ea0-8319-f4eae6739daf)
-  ![image](https://github.com/user-attachments/assets/9f6693aa-b8d4-493c-add4-060d09216630)
-  ![image](https://github.com/user-attachments/assets/30129820-bca6-4db9-b106-11eb850b8200)
-
-  `PC (DarkMatter, Terra, Acqua, Aiwass, Fuze, Aleister, MeltDowner, Lavinia, Thor, Magnus)`
-  ![image](https://github.com/user-attachments/assets/ea09a645-91b8-42aa-8a7e-9a8552206b02)
-  ![image](https://github.com/user-attachments/assets/30a46f35-5092-40b8-919b-30864a867a01)
-  ![image](https://github.com/user-attachments/assets/ac25b349-a8fe-418f-9111-fd523d884835)
-  ![image](https://github.com/user-attachments/assets/605e6644-002b-4f44-bfd6-78fcd29c7626)
-  ![image](https://github.com/user-attachments/assets/6f6b6993-bcc6-4347-8ed7-16019e47ae84)
-  ![image](https://github.com/user-attachments/assets/066ab495-11be-43d8-8b31-bb51be628019)
-  ![image](https://github.com/user-attachments/assets/8c9082c9-caa4-4806-82d7-0db1e5738244)
-  ![image](https://github.com/user-attachments/assets/bb3d7377-83a3-49cf-be51-e7a4de9a4a1a)
-  ![image](https://github.com/user-attachments/assets/cc486fdb-0175-4da2-ae38-bea99db9675d)
-  ![image](https://github.com/user-attachments/assets/071ae5c1-207e-4b40-b58b-82a7d184c757)
-
   (Config router dapat dilihat dari pkt yang diberikan)
 
 
@@ -773,19 +754,25 @@ Configuration to every router for routing.
 - Client - client
 
   `Aiwass-Aleister`
-  ![image](https://github.com/user-attachments/assets/437b562a-51db-4747-bedd-0febb6cb598e)
+  
+  ![image](https://github.com/user-attachments/assets/6bda951c-6d72-4fa5-a515-e50d53d5f42d)
+
 
 
 - Client - Server
 
   `Thor-Othinus`
-  ![image](https://github.com/user-attachments/assets/9175b949-4f1b-4ae1-9790-66d627a66ca8)
+  
+  ![image](https://github.com/user-attachments/assets/2ac3d989-cbcc-4821-971f-45a9cde103f7)
+
 
 
 - Client - Router
 
   `Gremlin-Thor`
-  ![image](https://github.com/user-attachments/assets/b55b7d3c-2552-40c0-b33a-74b83e3c2533)
+  
+  ![image](https://github.com/user-attachments/assets/82cf0985-6fa0-468c-9d44-c216b8862a3d)
+
 
 
 - Server - Server
@@ -795,12 +782,15 @@ Configuration to every router for routing.
 - Server - Router
 
   `Noukan-Kihara`
-  ![image](https://github.com/user-attachments/assets/4064ffaf-a825-44ca-980f-0abe402bac01)
+  
+  ![image](https://github.com/user-attachments/assets/81c63717-cb7b-440f-ae5c-c688abc97e9a)
 
 
 - Router - Router
 
-  `Kihara-Kamachi`
-  ![image](https://github.com/user-attachments/assets/e2258332-7a32-42e8-8a52-5dd811d70ae5)
+  `Kamachi-Fiamma`
+  
+  ![image](https://github.com/user-attachments/assets/5654dc9a-cb42-4ee4-8d6d-69562f5f3f8a)
+
 
 
