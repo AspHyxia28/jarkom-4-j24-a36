@@ -746,7 +746,117 @@ Configuration to every router for routing.
 
 ### Subnetting (If you use CPT)
 
-  (Config router dapat dilihat dari pkt yang diberikan)
+  `Kamachi`
+  
+  ![image](https://github.com/user-attachments/assets/c2205feb-ccb8-41e5-a691-acf14aff3dd3)
+  
+  `Kihara`
+
+  ![image](https://github.com/user-attachments/assets/ae472f70-a635-421c-a1b5-a0785775ede6)
+
+  `Noukan`
+  
+  ![image](https://github.com/user-attachments/assets/7bae1b6c-adfa-4d5b-af72-b0ea4fc0b135)
+
+  `Accel`
+
+  ![image](https://github.com/user-attachments/assets/12df9538-8245-4f88-9ab2-8032cbcbd3f9)
+
+  `DarkMatter`
+
+  ![image](https://github.com/user-attachments/assets/43a12008-4f4b-4df8-9b92-9d94d1a93770)
+
+  `Railgun`
+
+  ![image](https://github.com/user-attachments/assets/536e0831-d301-41a5-9748-72e928f0dcaf)
+
+  `MentalOut`
+
+  ![image](https://github.com/user-attachments/assets/ad831244-464a-43e5-ad1d-6f67b13f7ba7)
+
+  `MeltDowner`
+
+  ![image](https://github.com/user-attachments/assets/d344968e-e92c-4723-a0c4-af2eec0d4c84)
+
+  `Alice`
+
+  ![image](https://github.com/user-attachments/assets/bbff6b2c-43d4-453a-a1e6-b0021bdfa231)
+
+  `Fuze`
+
+  ![image](https://github.com/user-attachments/assets/f7cbeaf8-2203-46ac-9c46-841ff80f9af6)
+
+  `LastOrder`
+
+  ![image](https://github.com/user-attachments/assets/8cae5b8e-031a-4cdd-9cfb-18d4e064050f)
+
+  `Levinia`
+
+  ![image](https://github.com/user-attachments/assets/3452385c-5fe3-4bfb-886d-04c97d351f15)
+
+  `Necessarius`
+
+  ![image](https://github.com/user-attachments/assets/03aee247-5bfe-4eef-bab1-f0a6850f6053)
+
+  `Gremlin`
+
+  ![image](https://github.com/user-attachments/assets/2b736273-e6bf-4e1a-b1f4-d79db6264bc5)
+
+  `Othinus`
+
+  ![image](https://github.com/user-attachments/assets/47ae4c8e-4c21-41c0-ae0d-edf59db2279f)
+
+  `Thor`
+
+  ![image](https://github.com/user-attachments/assets/72c7afc8-4444-4adf-a727-e23a4291ccd0)
+
+  `Coronzon`
+
+  ![image](https://github.com/user-attachments/assets/d0672243-1695-47be-a0a7-3b537c9ea7e9)
+
+  `Index`
+
+  ![image](https://github.com/user-attachments/assets/88241689-8d85-4475-a043-55ca8d55bf83)
+
+  `Magnus`
+
+  ![image](https://github.com/user-attachments/assets/5a28bae0-ee3a-4b75-983f-e3e9abfd1ced)
+
+  `Elizard`
+
+  ![image](https://github.com/user-attachments/assets/6931a948-3dc4-4693-a83d-91b931907515)
+
+  `GoldenDawn`
+
+  ![image](https://github.com/user-attachments/assets/749b41f8-25f1-4bb8-8e92-cfd17696f086)
+
+  `Mathers`
+
+  ![image](https://github.com/user-attachments/assets/61e8217e-c589-4c77-9400-ad85a19d3ee0)
+
+  `Aleister`
+
+  ![image](https://github.com/user-attachments/assets/a4bf93ee-7ed1-4a87-bd99-19047ab0402a)
+
+  `Aiwass`
+
+  ![image](https://github.com/user-attachments/assets/b7ad60d0-7e55-454b-84ad-cef127e60670)
+
+  `Fiamma`
+
+  ![image](https://github.com/user-attachments/assets/27ebccf1-32d9-48b6-a432-24afe43647cc)
+
+  `Acqua`
+
+  ![image](https://github.com/user-attachments/assets/baf18dba-223b-4160-bbb9-da58b2ddc48b)
+
+  `Vento`
+
+  ![image](https://github.com/user-attachments/assets/3246b908-faed-4ecf-a50d-bbf488bc72b9)
+
+  `Terra`
+
+  ![image](https://github.com/user-attachments/assets/91384d42-b162-4565-88ae-cb75545fd059)
 
 
 ### Testing
